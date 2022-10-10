@@ -1,0 +1,1 @@
+# cloudformation-empty-template
